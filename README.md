@@ -3,7 +3,7 @@
 
 Name: `Connor Louis Stettler`
 
-ONID ID: `932-468-995`
+ONID ID: `stettlec`
 
 Link to my CS 290 page: `http://web.engr.oregonstate.edu/~stettlec/`
 
